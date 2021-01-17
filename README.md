@@ -6,3 +6,7 @@ Open the browser and browse to localhost:8080/api/Values. Check that you are get
        	["value1", "value2"]
 
 
+![20487D_Images](https://github.com/ialcaidef/Hosting-ASP.NET-Core-Services-in-IIS/blob/master/Images/01.png)
+
+
+![20487D_Images](https://github.com/ialcaidef/Hosting-ASP.NET-Core-Services-in-IIS/blob/master/Images/02.png)
